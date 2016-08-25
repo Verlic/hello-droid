@@ -1,0 +1,23 @@
+{
+  "name": "hello-droid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Verlic/hello-droid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Verlic/hello-droid/issues"
+  },
+  "homepage": "https://github.com/Verlic/hello-droid#readme",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}

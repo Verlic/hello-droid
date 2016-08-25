@@ -1,0 +1,14 @@
+{
+  "name": "thor",
+  "script": "index.js",
+  "actions": [
+    {
+      "function": "hello",
+      "aliases": ["hello :name([\\s\\S]*)"],
+      "acls": {
+        "explicitMention": true
+      },
+      "premessage": "_Saying hello to..._"
+    }
+  ]
+}
